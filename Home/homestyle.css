@@ -1,0 +1,15 @@
+.title {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #FFFBEF;
+  color: ##1f1f1f;
+  padding: 3% 5%;
+  border-bottom: 2px solid;
+  font-size: 20px;
+  display: inline-block;
+}
+body {
+  background-color: #FFFBEF;
+}
